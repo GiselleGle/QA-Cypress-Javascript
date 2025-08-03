@@ -2,11 +2,11 @@
 
 Este repositorio contiene la suite de pruebas automatizadas para la plataforma **Creai**, enfocada en validar funcionalidades clave desde una perspectiva de usuario final (UI testing). La implementación sigue buenas prácticas de automatización como el patrón **Page Object Model (POM)**, uso de **assertions claras**, y una estructura modular y mantenible.
 
-Definicion del Test: 
+## Definicion del Test: 
 Contiene pruebas automatizadas desarrolladas con Cypress para validar elementos clave y la navegación del sitio web 
-(https://www.creai.mx).
+ [https://www.creai.mx](https://www.creai.mx)
 
-Scope:
+## Scope:
 - Validación visual de elementos principales (logo, secciones, botón de contacto)
 - Prueba de navegación desde el menú principal
 - Implementación basada en Page Object Model (POM) para escalabilidad y mantenibilidad
@@ -49,8 +49,8 @@ cypress/
 
 # Instalacion y Configuracion
 1. Clonar el repositorio
-git clone https://github.com/tu_usuario/creai-tests.git
-cd creai-tests
+git clone https://github.com/GiselleGle/QA-Cypress-Javascript.git
+cd QA-Cypress-Javascript
 
 2. Instalar dependencias
 npm install
