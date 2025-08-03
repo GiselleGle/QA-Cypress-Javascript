@@ -1,0 +1,12 @@
+{
+   "name": "validacion-creai",
+  "version": "1.0.0",
+  "description": "Pruebas automáticas para validar carga de creai.mx",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}

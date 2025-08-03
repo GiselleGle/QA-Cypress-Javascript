@@ -1,0 +1,24 @@
+# Ignorar node_modules (dependencias instaladas)
+node_modules/
+
+# Ignorar videos y capturas de Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Ignorar archivos de logs
+*.log
+npm-debug.log*
+
+# Ignorar archivos de entorno local
+.env
+
+# Ignorar archivos del sistema (Mac, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de cobertura (si usas cobertura de tests)
+coverage/
+
+# Ignorar archivos temporales de editor (opcional)
+*.swp
+*.tmp
